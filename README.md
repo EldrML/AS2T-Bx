@@ -1,7 +1,7 @@
-# AS2T-LF
-(A SysML 2 Transformation Lens Framework)
+# AS2UTE
+(A SysML 2 Universal Transformation Effort)
 
-An attempt to map [SysML 2](https://github.com/Systems-Modeling/SysML-v2-Release) conventions to popular programming languages, and vice-versa.
+An early attempt to map [SysML 2](https://github.com/Systems-Modeling/SysML-v2-Release) conventions to popular programming languages, and vice-versa.
 
 List of potential languages:
 - Python
