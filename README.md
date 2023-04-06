@@ -1,6 +1,12 @@
-# AS2T-Bx
-A SysML 2 Bidirectional Transformation
+# AS2T-LF
+(A SysML 2 Transformation Lens Framework)
 
-An attempt to map [SysML 2](https://github.com/Systems-Modeling/SysML-v2-Release) to Python, and vice-versa.
+An attempt to map [SysML 2](https://github.com/Systems-Modeling/SysML-v2-Release) conventions to popular programming languages, and vice-versa.
 
-No clue yet how I am going to pull this off, if at all, but worth trying.
+List of potential languages:
+- Python
+- C++
+- Java
+- ?
+
+Design decisions and documentation found in the [Wiki](https://github.com/EldrML/AS2T-Lens/wiki).
