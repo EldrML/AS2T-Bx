@@ -7,6 +7,6 @@ List of potential languages:
 - Python
 - C++
 - Java
-- ?
+- AFSIM (NGC-side only)
 
 Design decisions and documentation found in the [Wiki](https://github.com/EldrML/AS2T-Lens/wiki).
